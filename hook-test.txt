@@ -1,2 +1,1 @@
-TODO: complete this task
-Testing commit message hook
+CampusNotes hook test completed successfully.
